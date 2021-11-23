@@ -3,7 +3,7 @@
 }
 
 .navbar {
-  background-color: #5879ff;
+  background-color: #6b88ff;
   color: white;
   min-height: 8vh;
 }
@@ -22,7 +22,7 @@
 }
 
 .sectionone {
-  background: linear-gradient(#6f4ebb, #3b44d6);
+  background: linear-gradient(#5879ff, #3b44d6);
   min-height: 92vh;
   position: relative;
   padding-top: 5vh;
@@ -44,37 +44,47 @@
   height: 90vh;
 }
 
-
 .gtech,
 .tinker,
 .riet {
   width: 15vw;
 }
 
-.supported{
+.supported {
   font-size: 1.2rem;
   letter-spacing: 5;
 }
 
-.supporters{
+.supporters {
   margin: 8vh 0;
 }
 
-.aroundhead{
+.aroundhead {
   font-size: 3rem;
   font-weight: 600;
-  color: #2F373D;
+  color: #2f373d;
 }
 
-.taglinethree{
+.taglinethree {
   line-height: 2.25rem;
   margin: 4vh 0;
   font-size: 1.1rem;
-  color: #878E94;
+  color: #878e94;
 }
 
-.listele{
+.listele {
   font-weight: 500;
   line-height: 2.25rem;
   font-size: 1.25rem;
+}
+
+.head {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.text {
+  font-size: 1.1rem;
+  line-height: 3.2vh;
+  color: #878e94;
 }
