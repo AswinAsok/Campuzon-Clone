@@ -3,7 +3,7 @@
 }
 
 .navbar {
-  background-color: #5879FF;
+  background-color: #5879ff;
   color: white;
   min-height: 8vh;
 }
@@ -21,8 +21,25 @@
   background: #f45a2a;
 }
 
-.pageone {
-  background: linear-gradient(#6F4EBB, #3B44D6);
-  color: white;
+.sectionone {
+  background: linear-gradient(#6f4ebb, #3b44d6);
   min-height: 92vh;
+  position: relative;
+  padding-top: 5vh;
+}
+
+.heading {
+  font-size: 4.95rem;
+  line-height: 6rem;
+  font-weight: 600;
+  color: white;
+}
+
+.tagline {
+  color: white;
+  line-height: 1.5rem;
+}
+
+.image img {
+  height: 90vh;
 }
