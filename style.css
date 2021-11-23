@@ -43,3 +43,38 @@
 .image img {
   height: 90vh;
 }
+
+
+.gtech,
+.tinker,
+.riet {
+  width: 15vw;
+}
+
+.supported{
+  font-size: 1.2rem;
+  letter-spacing: 5;
+}
+
+.supporters{
+  margin: 8vh 0;
+}
+
+.aroundhead{
+  font-size: 3rem;
+  font-weight: 600;
+  color: #2F373D;
+}
+
+.taglinethree{
+  line-height: 2.25rem;
+  margin: 4vh 0;
+  font-size: 1.1rem;
+  color: #878E94;
+}
+
+.listele{
+  font-weight: 500;
+  line-height: 2.25rem;
+  font-size: 1.25rem;
+}
