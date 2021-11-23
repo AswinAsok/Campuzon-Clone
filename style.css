@@ -1,0 +1,28 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+  background-color: #5879FF;
+  color: white;
+  min-height: 8vh;
+}
+
+.nav-item {
+  font-size: 1rem;
+  margin: 0 1vw;
+}
+
+.btn {
+  font-size: 0.9rem;
+  margin-left: 1vw;
+  font-weight: 600;
+  color: white;
+  background: #f45a2a;
+}
+
+.pageone {
+  background: linear-gradient(#6F4EBB, #3B44D6);
+  color: white;
+  min-height: 92vh;
+}
